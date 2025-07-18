@@ -1,4 +1,4 @@
-DSA Data Analysis Capstone Project
+## DSA Data Analysis Capstone Project
 
 
 This project was completed as part of a 3-month Analytics (DSA) training program. It focuses on analyzing two datasets:
